@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Onakeno`
+- **CCID:** `Erivona`
 
 ## References and Resources
 
@@ -13,5 +13,8 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/a`    | `N/a` |
+| `N/a` | `N/a`  |
+
+## App guide
+Update button is hidden under the "+"
